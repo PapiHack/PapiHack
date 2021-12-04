@@ -14,7 +14,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=PapiHack.PapiHack)
 
-<p>I'm currently a software engineer & fullstack developer at <strong><a href="https://baamtu.com/">Baamtu</a></strong> based in Dakar <img src="https://api.iconify.design/openmoji:flag-senegal.svg" width="20px"/> Senegal. I am working on some side projects, learning a couple new things, and trying to h4ck the world as Elliot Alderson in Mr Robot.</p>
+<p>I'm currently a software engineer & fullstack developer at <strong><a href="https://baamtu.com/">Baamtu</a></strong> based in Dakar <img src="https://api.iconify.design/openmoji:flag-senegal.svg" width="20px"/> Senegal. I am working on some side projects, learning a couple new things, and trying to h4ck the world like Elliot Alderson in Mr Robot.</p>
 
 <p>I am also an open-source enthusiast and maintainer with a passion for CyberSecurity, the Cloud and DevSecOps.</p>
 
