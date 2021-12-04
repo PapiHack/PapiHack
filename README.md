@@ -1,6 +1,6 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="#">Papi</a>
 
-<a href="https://twitter.com/the_it_dev/">
+<a href="https://twitter.com/the_it_dev">
   <img align="left" style="margin-right:10px;" alt="PapiHack | Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg" />
 </a>
 
