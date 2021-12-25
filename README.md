@@ -99,6 +99,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/PapiHack/php-package-skeleton?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PapiHack/php-package-skeleton?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/PapiHack/orange-sms-sender-service"><b>Orange SMS Sender API : A simple Python/FastAPI microservice with the ORANGE SMS API fully integrated.</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/PapiHack/orange-sms-sender-service?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/PapiHack/orange-sms-sender-service?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/PapiHack/orange-sms-sender-service?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PapiHack/orange-sms-sender-service?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
