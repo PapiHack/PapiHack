@@ -106,6 +106,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/PapiHack/orange-sms-sender-service?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PapiHack/orange-sms-sender-service?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/PapiHack/document-templating-service"><b>Document Template Processing Service : A a simple and lightweight microservice that allow you to process your Word documents with a templating system.</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/PapiHack/document-templating-service?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/PapiHack/document-templating-service?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/PapiHack/document-templating-service?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PapiHack/document-templating-service?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
