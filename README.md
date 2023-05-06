@@ -1,13 +1,13 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="#">Papi</a>
-<a href="https://twitter.com/the_it_dev">
+<!-- <a href="https://twitter.com/the_it_dev">
   <img align="left" style="margin-right:10px;" alt="PapiHack | Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/meissa-bc-mbaye">
   <img align="left" style="margin-right:10px;" alt="PapiHack | LinkedIn" width="25px" src="https://api.iconify.design/logos:linkedin-icon.svg" />
-</a> 
+</a>  -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=PapiHack.PapiHack)
+![](https://komarev.com/ghpvc/?username=PapiHack&style=for-the-badge&color=brightgreen)
 
 <p>I'm currently a FullStack Software & DevOps Engineer, based in Dakar <img src="https://api.iconify.design/openmoji:flag-senegal.svg" width="20px"/> Senegal. I am working on some side projects, learning a couple new things, and trying to h4ck the world like Elliot Alderson in Mr Robot.</p>
 
@@ -23,7 +23,7 @@
 
 <ul>
     <li>🏫 I'm currently learning Golang & DevOps stuff.</li>
-    <li>🔭 I’m currently working on the updated version of my portfolio website.</li>
+    <li>🔭 I’m currently working on the updated version of my personal website.</li>
     <li>🧐 Learning about <strong>Cloud/DevSecOps</strong>, <strong>Distributed Systems & MicroServices</strong>, and a bit of <strong>MicroFrontends</strong>.</li>
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/PapiHack">Github</a>.</li>
     <li>💬 Ping me about <strong>fullstack dev, security, and cloud stuff</strong>.</li>
