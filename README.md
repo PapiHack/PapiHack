@@ -13,6 +13,8 @@
 
 <p>I am also an open-source enthusiast and maintainer with a passion for CyberSecurity, the Cloud and DevSecOps.</p>
 
+<p>I'm currently 4x Kubernetes Certified: <a href="https://www.credly.com/badges/6d79f5f9-5066-4634-91ed-d9e58982221b/public_url">KCNA</a> | <a href="https://www.credly.com/badges/6267f608-252a-4c66-afcd-3317aa48cc7e/public_url">KCSA</a> | <a href="https://www.credly.com/badges/b08dc531-c21b-4e46-a272-ae852e846dd0/public_url">CKAD</a> | <a href="https://www.credly.com/badges/0bbbf938-2699-4777-a336-9333e687d12d/public_url">CKA</a></p>
+
 <p>Feel free to reach out to me for freelance job or open source collaborative projects !</p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
