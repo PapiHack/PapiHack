@@ -13,7 +13,7 @@
 
 <p>I am also an open-source enthusiast and maintainer with a passion for CyberSecurity, the Cloud and DevSecOps.</p>
 
-<p>I'm currently 4x Kubernetes Certified: <a href="https://www.credly.com/badges/6d79f5f9-5066-4634-91ed-d9e58982221b/public_url">KCNA</a> | <a href="https://www.credly.com/badges/6267f608-252a-4c66-afcd-3317aa48cc7e/public_url">KCSA</a> | <a href="https://www.credly.com/badges/b08dc531-c21b-4e46-a272-ae852e846dd0/public_url">CKAD</a> | <a href="https://www.credly.com/badges/0bbbf938-2699-4777-a336-9333e687d12d/public_url">CKA</a></p>
+<p>I'm currently 5x Kubernetes Certified (<i><b><a href="https://www.credly.com/badges/fa70fd62-f594-4e7a-95b0-22ff19823991/public_url">Kubestronaut</a></b></i>): <a href="https://www.credly.com/badges/6d79f5f9-5066-4634-91ed-d9e58982221b/public_url">KCNA</a> | <a href="https://www.credly.com/badges/6267f608-252a-4c66-afcd-3317aa48cc7e/public_url">KCSA</a> | <a href="https://www.credly.com/badges/b08dc531-c21b-4e46-a272-ae852e846dd0/public_url">CKAD</a> | <a href="https://www.credly.com/badges/0bbbf938-2699-4777-a336-9333e687d12d/public_url">CKA</a> | <a href="https://www.credly.com/badges/7153e464-bc70-469d-81c5-bab8cdcef175/public_url">CKS</a></p>
 
 <p>Feel free to reach out to me for freelance job or open source collaborative projects !</p>
 
